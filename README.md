@@ -2,7 +2,6 @@
 
 - [Andrei Rech | 23102140](https://github.com/AndreiRech) 
 - [Urien Nolasco | 23102720](https://github.com/UrienNolasco)
-- [Vitor Rebello | 19200434]()
 
 # 📚 INTRODUÇÃO
 
@@ -14,11 +13,10 @@ Criação de algoritmos WebCrawleres.
 
 Outra ferramente muito importante é o gerenciador de pacotes do Python, o [Pip](https://pypi.org/project/pip/).
 
+Para a conseguir abrir a aplicação que será retirado os dados no primeiro programa, é necessária a criação de um ambiente virtual no [Anaconda](https://www.anaconda.com/download) com o a versão **2.7** do Python.
+
 Por fim, a utilização do [JupyterLab](https://jupyter.org/) ou do [Google Colab](https://colab.google/) é necessária para a utilização do programa (Caso deseja, é possível utilizar o [VSCode](https://code.visualstudio.com/)).
 
-## Passo-a-Passo -> 1° Programa
-
-Para a conseguir abrir a aplicação que será retirado os dados no primeiro programa, é necessária a criação de um ambiente virtual no [Anaconda](https://www.anaconda.com/download) com o a versão **2.7** do Python.
 
 # ⚙ INICIALIZAÇÃO
 

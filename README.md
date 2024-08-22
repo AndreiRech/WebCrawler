@@ -42,15 +42,15 @@ jupyter lab
     - [X] Nome do continente
     - [X] Nome de todos os países vizinhos (Nome != Sigla)
     - [X] Salvar uma coluna extra no csv contendo um timestamp do momento no qual os dados foram obtidos
-- [] Faça um crawler que monitore as páginas de países e procure por atualizações. Caso algum registro tenha sido atualizado desde sua obtenção, esse registro deve ser atualizado no arquivo CSV, caso contrário manter a versão anterior.
+- [ ] Faça um crawler que monitore as páginas de países e procure por atualizações. Caso algum registro tenha sido atualizado desde sua obtenção, esse registro deve ser atualizado no arquivo CSV, caso contrário manter a versão anterior.
 
 ### ATIVIDADE 2
-- [] Faça scraping para obter os filmes presentes no Calendário de Lançamentos do IMDB
-    - [] Título do filme
-    - [] Data de lançamento
-    - [] Gênero(s)
-    - [] Link para página da série
-- [] Faça scraping das páginas específicas dos filmes obtidos no item anterior
-    - [] Nomes dos diretores
-    - [] Lista de atores principais
-- [] Salve as informações em um arquivo de tipo JSON.
+- [ ] Faça scraping para obter os filmes presentes no Calendário de Lançamentos do IMDB
+    - [ ] Título do filme
+    - [ ] Data de lançamento
+    - [ ] Gênero(s)
+    - [ ] Link para página da série
+- [ ] Faça scraping das páginas específicas dos filmes obtidos no item anterior
+    - [ ] Nomes dos diretores
+    - [ ] Lista de atores principais
+- [ ] Salve as informações em um arquivo de tipo JSON.

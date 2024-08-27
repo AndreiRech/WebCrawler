@@ -45,11 +45,11 @@ jupyter lab
 - [ ] Faça um crawler que monitore as páginas de países e procure por atualizações. Caso algum registro tenha sido atualizado desde sua obtenção, esse registro deve ser atualizado no arquivo CSV, caso contrário manter a versão anterior.
 
 ### ATIVIDADE 2
-- [ ] Faça scraping para obter os filmes presentes no Calendário de Lançamentos do IMDB
-    - [ ] Título do filme
-    - [ ] Data de lançamento
-    - [ ] Gênero(s)
-    - [ ] Link para página da série
+- [X] Faça scraping para obter os filmes presentes no Calendário de Lançamentos do IMDB
+    - [X] Título do filme
+    - [X] Data de lançamento
+    - [X] Gênero(s)
+    - [X] Link para página da série
 - [ ] Faça scraping das páginas específicas dos filmes obtidos no item anterior
     - [ ] Nomes dos diretores
     - [ ] Lista de atores principais

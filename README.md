@@ -50,7 +50,7 @@ jupyter lab
     - [X] Data de lançamento
     - [X] Gênero(s)
     - [X] Link para página da série
-- [ ] Faça scraping das páginas específicas dos filmes obtidos no item anterior
-    - [ ] Nomes dos diretores
-    - [ ] Lista de atores principais
-- [ ] Salve as informações em um arquivo de tipo JSON.
+- [X] Faça scraping das páginas específicas dos filmes obtidos no item anterior
+    - [X] Nomes dos diretores
+    - [X] Lista de atores principais
+- [X] Salve as informações em um arquivo de tipo JSON.
